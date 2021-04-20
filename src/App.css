@@ -1,0 +1,17 @@
+body{
+  background:#9eebe4;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+}
+
+img{
+  width:80px;
+  height:80px;
+  border-radius: 50%;
+}
+.container{
+  background:#fff;
+  padding: 2em ;
+  margin: 2em
+}
